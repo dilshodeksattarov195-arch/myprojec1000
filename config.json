@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtervender",
+        "uuid": 5169000,
+        "checksum": "q7051a"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
